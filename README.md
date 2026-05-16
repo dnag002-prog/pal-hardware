@@ -1,2 +1,4 @@
 # pal-hardware
-Test web page for Pal Hardware. 
+Official website for Pal Hardware, Glass & Plywood Centre, Gopali, Kharagpur, West Bengal.
+🌐 Live at: palhardware.in
+Built with plain HTML/CSS. Hosted via GitHub Pages.
